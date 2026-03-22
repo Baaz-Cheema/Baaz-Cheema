@@ -1,4 +1,4 @@
-# Baaz Cheema — Frontend Developer
+# Baaz Cheema — Fullstack Developer
 
 📍 Lahore, Pakistan · [LinkedIn](https://linkedin.com/in/baaz-cheema) · [GitHub](https://github.com/baaz-cheema) · [Portfolio](https://baaz-cheema.dev) · bcheema.dev@gmail.com
 
@@ -85,10 +85,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baaz-cheema&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baaz-cheema&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
